@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_tarea1a",
+  "version": "1.0.0",
+  "description": "lo mejor",
+  "main": "server.js",
+  "author": "pablo arancibia rojas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
